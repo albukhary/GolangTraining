@@ -35,3 +35,4 @@ func main() {
 	SwitchOnType(t.greeting)
 	SwitchOnType(t.name)
 }
+
